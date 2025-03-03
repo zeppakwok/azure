@@ -1,0 +1,3 @@
+/home/kwok/azure/build/CMakeFiles/rebuild_cache.dir
+/home/kwok/azure/build/CMakeFiles/edit_cache.dir
+/home/kwok/azure/build/CMakeFiles/azure_test.dir
